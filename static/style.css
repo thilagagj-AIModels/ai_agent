@@ -1,0 +1,46 @@
+/* Main application background */
+.stApp {
+background-color: #EAF2F8;
+}
+
+/* Main title */
+h1 {
+color: #1565C0 !important;
+text-align: center;
+font-size: 42px !important;
+}
+
+/* Description text */
+.stApp p {
+color: #37474F;
+font-size: 18px;
+}
+
+/* Input label */
+label {
+color: #1565C0 !important;
+font-weight: bold;
+}
+
+/* Input box */
+.stTextInput input {
+background-color: #FFFFFF !important;
+color: #263238 !important;
+border: 2px solid #1565C0 !important;
+border-radius: 10px !important;
+}
+
+/* Buttons */
+.stButton button {
+background-color: #1565C0 !important;
+color: white !important;
+border-radius: 8px !important;
+border: none !important;
+padding: 10px 24px !important;
+}
+
+/* Button hover */
+.stButton button:hover {
+background-color: #0D47A1 !important;
+color: white !important;
+}
